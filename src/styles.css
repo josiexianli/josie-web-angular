@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+html, body{
+  height: 100%;
+}
+
+canvas {
+  display: block;
+  position: absolute;
+
+  width: 100%;
+  height: 100%;
+
+
+}
